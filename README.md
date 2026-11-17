@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://tartarusai.dev/?utm_source=github&utm_medium=readme&utm_campaign=uncensored-ai-guide&utm_content=banner">
+    <img src="assets/banner.svg" alt="uncensored-ai-guide — Abliteration, local vs hosted, tool-calling" width="100%">
+  </a>
+</p>
+
 # The Uncensored AI Guide
 
 A practical, vendor-neutral guide to **uncensored AI** for developers: what it
@@ -40,7 +46,7 @@ still own what you build. The guide treats it as what it is — a tool.
 | **Uncensored fine-tunes** | preference-tuned to comply | local, varied quality |
 | **Hosted uncensored APIs** | someone else runs it | no GPU, no setup |
 
-If you want the hosted path with a coding focus, [Tartarus](https://tartarusai.dev)
+If you want the hosted path with a coding focus, [Tartarus](https://tartarusai.dev/?utm_source=github&utm_medium=readme&utm_campaign=uncensored-ai-guide&utm_content=body)
 is an uncensored coding agent (CLI + OpenAI-compatible API). Everything in this
 guide applies whether you self-host or not.
 
